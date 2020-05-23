@@ -1,0 +1,17 @@
+#sliderust   { width:715px; height:402px; cursor:pointer}
+#slideralt   { width:715px; height:49px; background:#000}
+#slideraltic { width:405px; height:49px; margin:0 auto}
+ul { list-style: none;   margin: 0; padding: 0;}
+ul li {
+    display: block; 
+    float: left;
+    color: #ffffff; 
+    width: 40px; 
+    height:49px; 
+    font: bold 16px tahoma;
+    line-height: 49px; 
+    text-align: center; 
+ 
+     }
+
+li:hover{ background:#f00; cursor: pointer;}
